@@ -52,9 +52,9 @@ Automated waypoint navigation mission planning and real-time telemetry monitorin
 ---
 
 ### 🚀 What I'm Focused On
-🔭 Current Focus: Integrating onboard companion computers with Edge AI for real-time autonomous drone navigation.
-🌱 Learning & Exploring: ROS/ROS 2, MAVLink API integration, and TinyML on microcontrollers.
-💡 Ask me about: Drone calibration, Mission Planner workflows, YOLO detection, and ESP32/IoT.
+- 🔭 Current Focus: Integrating onboard companion computers with Edge AI for real-time autonomous drone navigation.
+- 🌱 Learning & Exploring: ROS/ROS 2, MAVLink API integration, and TinyML on microcontrollers.
+- 💡 Ask me about: Drone calibration, Mission Planner workflows, YOLO detection, and ESP32/IoT.
 ---
 
 ### 📫 Connect with Me
