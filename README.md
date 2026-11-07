@@ -35,16 +35,20 @@ I specialize in building intelligent physical systems — combining flight contr
 
 ### 🛸 Featured Drone & Vision Projects
 
-#### 1. 🎯 Drone Object Detection & Aerial Tracking with YOLO
-- Tech Stack: Python, YOLO (Ultralytics), OpenCV, Drone Video Feeds
-- Built a real-time aerial object detection and tracking pipeline from high-altitude drone video feeds.
-- Optimized for aerial surveillance, search & rescue simulation, and target tracking under varying lighting and angles.
+1. 🎯 Aerial Object Detection & Tracking with YOLO
+Tech Stack: Python, YOLO, OpenCV, Drone Video Feeds
+Real-time aerial object detection and tracking pipeline for UAV search & rescue and surveillance.
+Integrated high-altitude camera feeds with optimized inference on edge computing devices.
 
-#### 2. 🛰️ UAV Firmware Deployment & Mission Planning
-- Tech Stack: Mission Planner, ArduPilot / PX4, MAVLink, Ground Control Station (GCS)
-- End-to-end flight controller (FC) firmware flashing, PID tuning, and IMU/Compass calibration.
-- Configured automated waypoint navigation missions, telemetry links, and failsafe protocols.
+2. 🖨️ Custom PCB Design & CAD Prototyping
+Tech Stack: AutoCAD, KiCad / PCB EDA, Circuit Schematics, BOM
+Designed custom PCB schematics and layouts for microcontroller sensor integration and power distribution.
+Created 2D/3D structural layouts in AutoCAD for hardware enclosures and mounting mechanisms.
 
+3. 🛰️ UAV Firmware Deployment & Mission Planning
+Tech Stack: Mission Planner, ArduPilot / PX4, MAVLink, Ground Control Station (GCS)
+Flight controller (FC) firmware configuration, sensor calibration (Compass/IMU), and PID tuning.
+Automated waypoint navigation mission planning and real-time telemetry monitoring.
 ---
 
 ### 🚀 What I'm Focused On
