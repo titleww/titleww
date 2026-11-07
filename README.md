@@ -25,31 +25,32 @@ I specialize in building intelligent physical systems — combining flight contr
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+#### 📐 Hardware, CAD & PCB Design
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51010?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB-Design%20%26%20Routing-00599C?style=for-the-badge)
+![Schematic Capture](https://img.shields.io/badge/Schematic-Capture%20%26%20BOM-4CAF50?style=for-the-badge)
+
 ---
 
 ### 🛸 Featured Drone & Vision Projects
 
 #### 1. 🎯 Drone Object Detection & Aerial Tracking with YOLO
-- **Tech Stack:** Python, YOLO, OpenCV, Drone Camera Feed
-- พัฒนาระบบตรวจจับและระบุตำแหน่งวัตถุจากภาพมุมสูงแบบ Real-time ด้วยโมเดล YOLO
-- ประยุกต์ใช้สำหรับการค้นหา, ลาดตระเวน, และการตรวจสอบความปลอดภัยทางอากาศ
+- Tech Stack: Python, YOLO (Ultralytics), OpenCV, Drone Video Feeds
+- Built a real-time aerial object detection and tracking pipeline from high-altitude drone video feeds.
+- Optimized for aerial surveillance, search & rescue simulation, and target tracking under varying lighting and angles.
 
-#### 2. 🛰️ UAV Flight Control & Telemetry Configuration
-- **Tech Stack:** Mission Planner, ArduPilot / PX4, MAVLink, Ground Control Station (GCS)
-- ติดตั้งและตั้งค่า Firmware ควบคุมการบินบนบอร์ด Flight Controller (FC)
-- ตั้งค่าเซนเซอร์ Compass, IMU Calibration, ระบบ Failsafe และการวางแผนเส้นทางบินอัตโนมัติ (Waypoint Navigation)
-
-#### 3. 🌊 [ThanPhai (ทันภัย)](https://github.com/Peem-Atikorn/ThanPhai)
-- **Tech Stack:** Python, AI, Open Data
-- แพลตฟอร์มแจ้งเตือนภัยพิบัติและน้ำท่วมแบบ Real-time ผสานระบบ AI ตอบคำถาม
+#### 2. 🛰️ UAV Firmware Deployment & Mission Planning
+- Tech Stack: Mission Planner, ArduPilot / PX4, MAVLink, Ground Control Station (GCS)
+- End-to-end flight controller (FC) firmware flashing, PID tuning, and IMU/Compass calibration.
+- Configured automated waypoint navigation missions, telemetry links, and failsafe protocols.
 
 ---
 
 ### 🚀 What I'm Focused On
-- 🔭 **Current Focus:** ผสานกล้องบนโดรนเข้ากับโมเดล Edge AI (YOLO) สำหรับภารกิจบินอัตโนมัติ
-- 🌱 **Learning:** ROS (Robot Operating System), MAVLink Communication, TinyML
-- 💡 **Ask me about:** Drone calibration, Mission Planner setup, Object Detection, ESP32/IoT
-
+🔭 Current Focus: Integrating onboard companion computers with Edge AI for real-time autonomous drone navigation.
+🌱 Learning & Exploring: ROS/ROS 2, MAVLink API integration, and TinyML on microcontrollers.
+💡 Ask me about: Drone calibration, Mission Planner workflows, YOLO detection, and ESP32/IoT.
 ---
 
 ### 📫 Connect with Me
